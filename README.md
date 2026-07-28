@@ -33,6 +33,7 @@
 | 파일 | 내용 |
 |------|------|
 | [`agent-template.md`](agent-template.md) | 모든 에이전트가 공유하는 골격 |
+| [`examples/health-checker.md`](examples/health-checker.md) | 템플릿을 실제로 채운 예시 (읽기 전용 점검 에이전트) |
 | [`rules/orchestrator-craft.md`](rules/orchestrator-craft.md) | 오케스트레이션 실증 패턴 9개 |
 | [`rules/no-predicted-result.md`](rules/no-predicted-result.md) | 실행하지 않고 결과를 지어내는 것을 막는 규칙 |
 | [`rules/agent-lifecycle.md`](rules/agent-lifecycle.md) | 언제 만들고 언제 접는가 + 셀프 fix-up 임계값 |
