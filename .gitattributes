@@ -1,0 +1,5 @@
+# 마크다운 저장소 — 개행을 LF로 통일한다.
+# 없으면 커밋마다 CRLF 경고가 뜨고, 다른 OS에서 clone할 때 diff가 오염된다.
+* text=auto eol=lf
+*.md text eol=lf
+LICENSE text eol=lf
